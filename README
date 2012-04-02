@@ -1,0 +1,9 @@
+Overseer is the NBites ground detection server. Based on work done by
+Piyush Khandelwal (piyushk), piyushk@cs.utexas.edu
+
+
+See attached source code licensing for more details.
+Right now this is just meant to be a submodule in nbites, so it cannot be 
+compiled on its own. 
+
+Hopefully it will become its autonomous package in the future.
